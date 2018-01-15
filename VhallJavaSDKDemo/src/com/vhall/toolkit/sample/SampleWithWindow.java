@@ -26,8 +26,8 @@ public class SampleWithWindow extends JFrame {
 	private static final long serialVersionUID = 560684569647135515L;
 	// 编辑部分
 	// TODO APPID
-	public static final String APP_ID = "342a10bb";// 微吼APPKEY
-	public static final String SECRET_KEY = "7b887d97f11cb1f7c6cb890fbecf0367";// 微吼SECRETKEY
+	public static final String APP_ID = "";// 微吼APPKEY
+	public static final String SECRET_KEY = "";// 微吼SECRETKEY
 	public static final String callbackurl = "http://t.e.vhall.com/api/callback";
 	public static final String videoName = "木木木木森";
 
